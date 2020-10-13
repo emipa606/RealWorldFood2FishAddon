@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_FSushi.label>스시 만들기</Make_FSushi.label>
+  <Make_FSushi.description>스시 만들기.</Make_FSushi.description>
+  <Make_FSushi.jobString>스시 만드는 중.</Make_FSushi.jobString>
+  <Make_SSushi.label>연어스시 만들기</Make_SSushi.label>
+  <Make_SSushi.description>연어스시 만들기.</Make_SSushi.description>
+  <Make_SSushi.jobString>연어스시 만드는 중.</Make_SSushi.jobString>
+</LanguageData>

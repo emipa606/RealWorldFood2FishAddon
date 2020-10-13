@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Catch_TFish.label>작은생선 잡기</Catch_TFish.label>
+  <Catch_TFish.description>작은생선 잡기.</Catch_TFish.description>
+  <Catch_TFish.jobString>작은생선 잡는 중.</Catch_TFish.jobString>
+  <Catch_Fish.label>생선 잡기</Catch_Fish.label>
+  <Catch_Fish.description>생선 잡기.</Catch_Fish.description>
+  <Catch_Fish.jobString>생선 잡는 중.</Catch_Fish.jobString>
+  <Catch_Salmon.label>연어 잡기</Catch_Salmon.label>
+  <Catch_Salmon.description>연어 잡기</Catch_Salmon.description>
+  <Catch_Salmon.jobString>연어 잡는 중.</Catch_Salmon.jobString>
+  <Catch_Shrimp.label>새우 잡기</Catch_Shrimp.label>
+  <Catch_Shrimp.description>새우 잡기.</Catch_Shrimp.description>
+  <Catch_Shrimp.jobString>새우 잡는 중.</Catch_Shrimp.jobString>
+  <catch_Octopus.label>문어 잡기</catch_Octopus.label>
+  <catch_Octopus.description>문어 잡기.</catch_Octopus.description>
+  <catch_Octopus.jobString>문어 잡는 중.</catch_Octopus.jobString>
+  <Make_salt.label>소금 만들기</Make_salt.label>
+  <Make_salt.description>소금 만들기.</Make_salt.description>
+  <Make_salt.jobString>소금 만드는 중.</Make_salt.jobString>
+</LanguageData>

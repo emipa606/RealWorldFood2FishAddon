@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Real World Food 2-Fish Addon (Continued)</name>
+  <packageId>Mlie.RealWorldFood2FishAddon</packageId>
+  <author>Miko</author>
+  <url>https://github.com/emipa606/RealWorldFood2FishAddon</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Crustypeanut.RC2.Core</packageId>
+      <displayName>RimCuisine 2 Core</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1833592062</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Mlie.RealWorldFood2</packageId>
+      <displayName>Real World Food 2 (Continued)</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2256552171</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Crustypeanut.RC2.Core</li>
+    <li>Mlie.RealWorldFood2</li>
+  </loadAfter>
+  <description>Update of Mikos mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1731635219
+
+[img]https://i.imgur.com/wtwHAQu.png[/img]
+
+Support-chat:
+https://invite.gg/mlie
+
+Non-steam version:
+https://github.com/emipa606/RealWorldFood2FishAddon
+	
+--- Original Description ---
+Real World Food Fish Addon
+
+Now catch the fish adding food, fish, and fish tank
+
+Thank you for subscribe
+
+
+
+This mode no longer requires 'RimCuisine 1.0' now use 'RimCuisine 2 Core' as the default
+
+If you are an English user and want to change the description, there is a file inside that can be translated. If you think it is a good translation, please let me know so that everyone can use it.</description>
+</ModMetaData>

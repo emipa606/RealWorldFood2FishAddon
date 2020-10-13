@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThoughtDef>
+    <defName>AteGTFish</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>2</stackLimit>
+    <stages>
+      <li>
+        <label>ate grilled fish</label>
+        <description>fish</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>AteGambas</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>2</stackLimit>
+    <stages>
+      <li>
+        <label>ate Gambas al ajillo</label>
+        <description>fish</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>AteSalmon</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>2</stackLimit>
+    <stages>
+      <li>
+        <label>ate Salmon Meuniere</label>
+        <description>Salmon</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>AteFishChips</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>2</stackLimit>
+    <stages>
+      <li>
+        <label>ate Fish and Chips</label>
+        <description>Chips</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>AteFishMeuniere</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>2</stackLimit>
+    <stages>
+      <li>
+        <label>ate Fish Meuniere</label>
+        <description>Meuniere</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>AteSushi</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>2</stackLimit>
+    <stages>
+      <li>
+        <label>ate Sushi</label>
+        <description>Sushi</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>AtePulpoGallego</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>2</stackLimit>
+    <stages>
+      <li>
+        <label>ate Pulpo Gallego</label>
+        <description>how get this???</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>AteBoiledshrimp</defName>
+    <showBubble>true</showBubble>
+    <icon>Things/Mote/ThoughtSymbol/Food</icon>
+    <durationDays>0.5</durationDays>
+    <stackLimit>2</stackLimit>
+    <stages>
+      <li>
+        <label>ate Boiled shrimp</label>
+        <description>how get this???</description>
+        <baseMoodEffect>+2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

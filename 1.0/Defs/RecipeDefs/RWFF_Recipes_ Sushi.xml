@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--														-->
+  <RecipeDef>
+    <defName>Make_FSushi</defName>
+    <label>make Fish Sushi</label>
+    <description>Make Fish and Chips.</description>
+    <jobString>Making Fish and Chips.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>1000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>TrimmedFish</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawRice</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_OliveOil</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>TrimmedFish</li>
+        <li>RawRice</li>
+        <li>RWF_OliveOil</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_FishSushi>1</RWFF_FishSushi>
+    </products>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>MKSushi</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Make_SSushi</defName>
+    <label>make Slamon Sushi</label>
+    <description>Make Fish and Chips.</description>
+    <jobString>Making Fish and Chips.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>1000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>CleanedsalmonV</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawRice</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_OliveOil</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>CleanedsalmonV</li>
+        <li>RawRice</li>
+        <li>RWF_OliveOil</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_SalmonSushi>1</RWFF_SalmonSushi>
+    </products>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>MKSushi</researchPrerequisite>
+  </RecipeDef>
+</Defs>

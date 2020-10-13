@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteGTFish.stages.0.label>구운 물고기</AteGTFish.stages.0.label>
+  <AteGTFish.stages.0.description>캠핑하는 느낌이 나는데?</AteGTFish.stages.0.description>
+  <AteGambas.stages.0.label>감바스 알 아히요를 먹음</AteGambas.stages.0.label>
+  <AteGambas.stages.0.description>음 오일리 하고 맛있다!</AteGambas.stages.0.description>
+  <AteSalmon.stages.0.label>연어 뫼니에르를 먹음</AteSalmon.stages.0.label>
+  <AteSalmon.stages.0.description>연어는 좋아.</AteSalmon.stages.0.description>
+  <AteFishChips.stages.0.label>피쉬엔칩스를 먹음</AteFishChips.stages.0.label>
+  <AteFishChips.stages.0.description>바삭바삭한 맛이 일품이다!</AteFishChips.stages.0.description>
+  <AteFishMeuniere.stages.0.label>피쉬뫼니에르를 먹음</AteFishMeuniere.stages.0.label>
+  <AteFishMeuniere.stages.0.description>음 고급스러운 맛이야!</AteFishMeuniere.stages.0.description>
+  <AteSushi.stages.0.label>스시를 먹음</AteSushi.stages.0.label>
+  <AteSushi.stages.0.description>오 생으로 먹어도 괜찮은데?</AteSushi.stages.0.description>
+  <AtePulpoGallego.stages.0.label>폴포 아 페아라를 먹음</AtePulpoGallego.stages.0.label>
+  <AtePulpoGallego.stages.0.description>문어도 맛있는데?</AtePulpoGallego.stages.0.description>
+  <AteBoiledshrimp.stages.0.label>삶은 새우를 먹음</AteBoiledshrimp.stages.0.label>
+  <AteBoiledshrimp.stages.0.description>간단하게 삶은 새우지만 맛있다!</AteBoiledshrimp.stages.0.description>
+</LanguageData>

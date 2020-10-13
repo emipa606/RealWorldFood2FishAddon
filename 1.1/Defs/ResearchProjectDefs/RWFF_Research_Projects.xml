@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--============================== Main Categories ==============================-->
+  <ResearchProjectDef>
+    <defName>StartFishing</defName>
+    <label>Start fishing</label>
+    <description>Let's Start fishing.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>Make_SimpleMeal</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Fishbaking</defName>
+    <label>Roasted fish</label>
+    <description>Let's Start Roasted fish.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>StartFishing</li>
+    </prerequisites>
+    <researchViewX>4.5</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>AdvancedFishing</defName>
+    <label>Advanced fishing</label>
+    <description>Advanced fishing.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>StartFishing</li>
+    </prerequisites>
+    <researchViewX>5</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>MKGambas</defName>
+    <label>Making Gambas al ajillo</label>
+    <description>Now can make Gambas al ajillo.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>AdvancedFishing</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>MKSalmonMeuniere</defName>
+    <label>Making Salmon Meuniere</label>
+    <description>Now can make Salmon Meuniere.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>AdvancedFishing</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>MKFishChips</defName>
+    <label>Making Fish and Chips</label>
+    <description>Now can make Fish and Chips.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>AdvancedFishing</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>MKFishMeuniere</defName>
+    <label>Making Fish Meuniere</label>
+    <description>Now can make Fish Meuniere.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>AdvancedFishing</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>MKPulpoGallego</defName>
+    <label>Making Pulpo Gallego</label>
+    <description>Now can make Pulpo Gallego.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>AdvancedFishing</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>MKBoiledshrimp</defName>
+    <label>Making Boiled shrimp</label>
+    <description>Now can make Boiled shrimp.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>AdvancedFishing</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>MKSushi</defName>
+    <label>Making Sushi</label>
+    <description>Now can make Sushi.</description>
+    <tab>SimpleMeal</tab>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>AdvancedFishing</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>6</researchViewY>
+  </ResearchProjectDef>MicroelectronicsBasics
+	
+	<ResearchProjectDef><defName>FTMake</defName><label>Invented fish tank</label><description>It is annoying, difficult and sometimes dangerous to go fishing every time. 
+This study safely fosters fish indoors!</description><tab>SimpleMeal</tab><baseCost>2500</baseCost><techLevel>Industrial</techLevel><prerequisites><li>Electricity</li><li>AdvancedFishing</li></prerequisites><researchViewX>7</researchViewX><researchViewY>0</researchViewY></ResearchProjectDef><ResearchProjectDef><defName>FTMakeS</defName><label>Salmon tank</label><description>Let's raise a salmon in a fish tank!</description><tab>SimpleMeal</tab><baseCost>1500</baseCost><techLevel>Industrial</techLevel><prerequisites><li>FTMake</li></prerequisites><researchViewX>8</researchViewX><researchViewY>0</researchViewY></ResearchProjectDef><ResearchProjectDef><defName>FTMakeSi</defName><label>shrimp tank</label><description>Let's raise a shrimp in a fish tank!</description><tab>SimpleMeal</tab><baseCost>1500</baseCost><techLevel>Industrial</techLevel><prerequisites><li>FTMake</li></prerequisites><researchViewX>8</researchViewX><researchViewY>1</researchViewY></ResearchProjectDef><ResearchProjectDef><defName>FTMakeOc</defName><label>octopus tank</label><description>Let's raise a octopus in a fish tank! This is a little more difficult.</description><tab>SimpleMeal</tab><baseCost>2500</baseCost><techLevel>Industrial</techLevel><prerequisites><li>FTMake</li></prerequisites><researchViewX>8</researchViewX><researchViewY>2</researchViewY></ResearchProjectDef></Defs>

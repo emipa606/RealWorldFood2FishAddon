@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ButcherFish.label>생선 손질하기</ButcherFish.label>
+  <ButcherFish.description>생선 손질하기.</ButcherFish.description>
+  <ButcherFish.jobString>생선 손질하는 중.</ButcherFish.jobString>
+  <ButcherSalmonA.label>연어 수직으로 자르기</ButcherSalmonA.label>
+  <ButcherSalmonA.description>연어 수직으로 자르기.</ButcherSalmonA.description>
+  <ButcherSalmonA.jobString>연어 수직으로 자르는 중.</ButcherSalmonA.jobString>
+  <ButcherSalmonB.label>연어 수평으로 자르기</ButcherSalmonB.label>
+  <ButcherSalmonB.description>연어 수평으로 자르기.</ButcherSalmonB.description>
+  <ButcherSalmonB.jobString>연어 수평으로 자르는 중.</ButcherSalmonB.jobString>
+  <ButcherShrimp.label>새우 손질하기</ButcherShrimp.label>
+  <ButcherShrimp.description>새우 손질하기.</ButcherShrimp.description>
+  <ButcherShrimp.jobString>새우 손질하는 중.</ButcherShrimp.jobString>
+  <ButcherShrimpx10.label>새우 대량으로 손질하기</ButcherShrimpx10.label>
+  <ButcherShrimpx10.description>새우 대량으로 손질하기.</ButcherShrimpx10.description>
+  <ButcherShrimpx10.jobString>새우 손질하는 중.</ButcherShrimpx10.jobString>
+  <trimFish.label>생선 손질하기</trimFish.label>
+  <trimFish.description>생선 손질하기.</trimFish.description>
+  <trimFish.jobString>생선 손질하는 중.</trimFish.jobString>
+</LanguageData>

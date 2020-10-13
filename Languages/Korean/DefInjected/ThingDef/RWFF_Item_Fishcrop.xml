@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DeadFish.label>생선</DeadFish.label>
+  <DeadFish.description>일반적인 생선입니다.</DeadFish.description>
+  <DeadThinFish.label>작은생선</DeadThinFish.label>
+  <DeadThinFish.description>이 생선은 크기가 작은거 같습니다 아마 덜 자랐거나 송사리 같은거 겠지요?.</DeadThinFish.description>
+  <DeadSalmon.label>연어</DeadSalmon.label>
+  <DeadSalmon.description>바다에서 살다가 강으로 돌아오는 연어 입니다. 일부 번화계에서는 오랜 만에 돌아오는 사람에게도 부른다고 합니다.</DeadSalmon.description>
+  <DeadShrimp.label>새우</DeadShrimp.label>
+  <DeadShrimp.description>작은 새우입니다 림월드 새우는 물안 어디서든 살수있습니다.</DeadShrimp.description>
+  <DeadOctopus.label>문어</DeadOctopus.label>
+  <DeadOctopus.description>문어입니다 림월드문어는 짠물 민물을 가리지 않게 진화했습니다. 신이 좀더 유능하다면 바다에서만 살았겠군요</DeadOctopus.description>
+</LanguageData>

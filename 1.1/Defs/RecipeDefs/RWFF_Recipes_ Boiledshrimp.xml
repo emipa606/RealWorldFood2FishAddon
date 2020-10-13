@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--														-->
+  <RecipeDef>
+    <defName>Make_Boiledshrimp</defName>
+    <label>make Boiled shrimp</label>
+    <description>Make Boiled shrimp.</description>
+    <jobString>Making Boiled shrimp.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>500</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>DeadShrimp</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_Salt</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>DeadShrimp</li>
+        <li>RWF_Salt</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_Boiledshrimp>1</RWFF_Boiledshrimp>
+    </products>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>MKBoiledshrimp</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Make_Boiledshrimpx10</defName>
+    <label>make 10 Boiled shrimp</label>
+    <description>Make Boiled shrimp.</description>
+    <jobString>Making Boiled shrimp.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>750</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>DeadShrimp</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_Salt</li>
+          </thingDefs>
+        </filter>
+        <count>35</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>DeadShrimp</li>
+        <li>RWF_Salt</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_Boiledshrimp>10</RWFF_Boiledshrimp>
+    </products>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>MKBoiledshrimp</researchPrerequisite>
+  </RecipeDef>
+</Defs>

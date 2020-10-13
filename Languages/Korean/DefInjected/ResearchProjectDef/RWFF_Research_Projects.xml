@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Main Categories -->
+  <StartFishing.label>기초 낚시</StartFishing.label>
+  <StartFishing.description>낚시를 시작할수 있습니다.</StartFishing.description>
+  <Fishbaking.label>생선 굽기</Fishbaking.label>
+  <Fishbaking.description>생선을 모닥불에서 구워먹는건 낭만적이네요.</Fishbaking.description>
+  <AdvancedFishing.label>발전된 낚시</AdvancedFishing.label>
+  <AdvancedFishing.description>물고기만 낚아선 쓸모가 없습니다.</AdvancedFishing.description>
+  <MKGambas.label>감바스 알 아히요 레시피</MKGambas.label>
+  <MKGambas.description>우주 인터넷에서 레시피를 다운 받습니다.</MKGambas.description>
+  <MKSalmonMeuniere.label>연어 뫼니에르 레시피</MKSalmonMeuniere.label>
+  <MKSalmonMeuniere.description>우주 인터넷에서 레시피를 다운 받습니다.</MKSalmonMeuniere.description>
+  <MKFishChips.label>피쉬엔칩스 레시피</MKFishChips.label>
+  <MKFishChips.description>우주 인터넷에서 레시피를 다운 받습니다.</MKFishChips.description>
+  <MKFishMeuniere.label>생선 뫼니에르 레시피</MKFishMeuniere.label>
+  <MKFishMeuniere.description>우주 인터넷에서 레시피를 다운 받습니다.</MKFishMeuniere.description>
+  <MKPulpoGallego.label>폴포 아 페이라 레시피</MKPulpoGallego.label>
+  <MKPulpoGallego.description>우주 인터넷에서 레시피를 다운 받습니다.</MKPulpoGallego.description>
+  <MKBoiledshrimp.label>새우 삶는 법</MKBoiledshrimp.label>
+  <MKBoiledshrimp.description>우주 인터넷에서 레시피를 다운 받습니다.</MKBoiledshrimp.description>
+  <MKSushi.label>스시 레시피</MKSushi.label>
+  <MKSushi.description>우주 인터넷에서 레시피를 다운 받습니다.</MKSushi.description>
+  <FTMake.label>수조 사용법 연구</FTMake.label>
+  <FTMake.description>물가에 가서 하는 낚시는 낭만적일지 몰라도 매우 귀찮고 힘들며 심지어 어쩔때에는 위험하기 까지 합니다. 이 연구는 안전한 실내에 수조를 두고 물고기를 기를 수 있게 해줍니다!</FTMake.description>
+  <FTMakeS.label>연어 수조</FTMakeS.label>
+  <FTMakeS.description>수조에 연어를 넣어 기릅니다!</FTMakeS.description>
+  <FTMakeSi.label>새우 수조</FTMakeSi.label>
+  <FTMakeSi.description>수조에 새우를 넣어 기릅니다!</FTMakeSi.description>
+  <FTMakeOc.label>문어수조</FTMakeOc.label>
+  <FTMakeOc.description>문어를 수조에 넣어서 기릅니다! 이 생물은 쉽게 수조에 넣기는 힘들겠군요 좀더 조사해야겠습니다.</FTMakeOc.description>
+</LanguageData>

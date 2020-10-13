@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmokedFish.label>훈제된 생선</SmokedFish.label>
+  <SmokedFish.description>빨리 썩어버리는 생선을 오래 보관하게 해줍니다.</SmokedFish.description>
+  <TrimmedFish.label>손질된 생선</TrimmedFish.label>
+  <TrimmedFish.description>생선은 생으로 먹을수 없기에 손질하고 요리해야 합니다.</TrimmedFish.description>
+  <CleanedsalmonV.label>손질된 연어(수직)</CleanedsalmonV.label>
+  <CleanedsalmonV.description>수직으로 자른 연어 입니다.</CleanedsalmonV.description>
+  <CleanedsalmonH.label>손질된 연어(수평)</CleanedsalmonH.label>
+  <CleanedsalmonH.description>수평으로 자른 연어 입니다.</CleanedsalmonH.description>
+  <CleanedShrimp.label>손질된 새우</CleanedShrimp.label>
+  <CleanedShrimp.description>머리를 떼어내고 껍질을 벗긴 새우입니다.</CleanedShrimp.description>
+  <RWFF_Fishfeed.label>생선사료</RWFF_Fishfeed.label>
+  <RWFF_Fishfeed.description>물고기를 기를 때 물고기에게 주는 사료입니다, 인간은 둘째 치고 동물도 먹을수 없는거 같습니다!</RWFF_Fishfeed.description>
+</LanguageData>

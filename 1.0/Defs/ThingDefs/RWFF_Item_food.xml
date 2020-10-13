@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MealRottable">
+    <defName>GrilledThinFish</defName>
+    <label>Grilled thin fish</label>
+    <description>Grilled thin fish.</description>
+    <graphicData>
+      <texPath>Thing/Item/food/Thin_fish/Thin_fish_meat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.65</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteGTFish</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>GrilledFish</defName>
+    <label>Grilled fish</label>
+    <description>Grilled fish.</description>
+    <graphicData>
+      <texPath>Thing/Item/food_ingredients/nomal_fish/nomal_fish_meat_Smoked</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.9</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteGTFish</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>RWFF_Gambas</defName>
+    <label>Gambas al ajillo</label>
+    <description>Gambas al ajillo.</description>
+    <graphicData>
+      <texPath>Thing/Item/food/Gambas_al_ajillo/RWFF_Gambas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.9</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteGambas</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>RWFF_SalmonMeuniere</defName>
+    <label>Salmon Meuniere</label>
+    <description>Salmon Meuniere.</description>
+    <graphicData>
+      <texPath>Thing/Item/food/Salmon_Meuniere/RWFF_SalmonMeuniere</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.9</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteSalmon</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>RWFF_FishChips</defName>
+    <label>Fish and Chips</label>
+    <description>Fish and Chips.</description>
+    <graphicData>
+      <texPath>Thing/Item/food/Fish_Chips/RWFF_FishChips</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.9</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFishChips</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>RWFF_FishMeuniere</defName>
+    <label>Fish Meuniere</label>
+    <description>Fish Meuniere.</description>
+    <graphicData>
+      <texPath>Thing/Item/food/Fish_Meuniere/RWFF_FishMeuniere</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.9</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFishMeuniere</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>RWFF_FishSushi</defName>
+    <label>Fish Sushi</label>
+    <description>Fish Sushi.</description>
+    <graphicData>
+      <texPath>Thing/Item/food/Sushi/RWFF_FishSushi</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.85</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteSushi</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>RWFF_SalmonSushi</defName>
+    <label>Salmon Sushi</label>
+    <description>Salmon Sushi.</description>
+    <graphicData>
+      <texPath>Thing/Item/food/Sushi/RWFF_SalmonSushi</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.85</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteSushi</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>RWFF_PulpoGallego</defName>
+    <label>Pulpo Gallego</label>
+    <description>Pulpo Gallego.</description>
+    <graphicData>
+      <texPath>Thing/Item/food/Pulpo_Gallego/RWFF_PulpoGallego</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.9</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AtePulpoGallego</tasteThought>
+    </ingestible>
+  </ThingDef>
+  <ThingDef ParentName="MealRottable">
+    <defName>RWFF_Boiledshrimp</defName>
+    <label>Boiled shrimp</label>
+    <description>Boiled shrimp.</description>
+    <graphicData>
+      <texPath>Thing/Item/Fish corpse/Shrimp/Fish_raw_Shrimp_B</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>3</MarketValue>
+      <Nutrition>0.65</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteBoiledshrimp</tasteThought>
+    </ingestible>
+  </ThingDef>
+</Defs>

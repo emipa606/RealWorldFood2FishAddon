@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RWFF_FishTank.label>물고기 수조</RWFF_FishTank.label>
+  <RWFF_FishTank.description>물고기를 기르는 수조입니다 잘자란 생선은 맛있어 보입니다.</RWFF_FishTank.description>
+  <RWFF_FishTank_Blueprint.label>물고기 수조(청사진)</RWFF_FishTank_Blueprint.label>
+  <RWFF_FishTank_Blueprint_Install.label>물고기 수조(청사진)</RWFF_FishTank_Blueprint_Install.label>
+  <RWFF_FishTank_Frame.label>물고기 수조(건설 중)</RWFF_FishTank_Frame.label>
+  <RWFF_FishTank_Frame.description>물고기를 기르는 수조입니다 잘자란 생선은 맛있어 보입니다.</RWFF_FishTank_Frame.description>
+  <RWFF_SalmonTank.label>연어 수조</RWFF_SalmonTank.label>
+  <RWFF_SalmonTank.description>연어를 기르는 수조입니다 잘자란 연어는 맛있어 보입니다.</RWFF_SalmonTank.description>
+  <RWFF_SalmonTank_Blueprint.label>연어 수조(청사진)</RWFF_SalmonTank_Blueprint.label>
+  <RWFF_SalmonTank_Blueprint_Install.label>연어 수조(청사진)</RWFF_SalmonTank_Blueprint_Install.label>
+  <RWFF_SalmonTank_Frame.label>연어 수조(건설 중)</RWFF_SalmonTank_Frame.label>
+  <RWFF_SalmonTank_Frame.description>연어를 기르는 수조입니다 잘자란 연어는 맛있어 보입니다.</RWFF_SalmonTank_Frame.description>
+  <RWFF_ShrimpTank.label>새우 수조</RWFF_ShrimpTank.label>
+  <RWFF_ShrimpTank.description>새우를 기르는 수조입니다 잘자란 새우는 맛있어 보입니다.</RWFF_ShrimpTank.description>
+  <RWFF_ShrimpTank_Blueprint.label>새우 수조 (청사진)</RWFF_ShrimpTank_Blueprint.label>
+  <RWFF_ShrimpTank_Blueprint_Install.label>새우 수조 (청사진)</RWFF_ShrimpTank_Blueprint_Install.label>
+  <RWFF_ShrimpTank_Frame.label>새우 수조(건설 중)</RWFF_ShrimpTank_Frame.label>
+  <RWFF_ShrimpTank_Frame.description>새우를 기르는 수조입니다 잘자란 새우는 맛있어 보입니다.</RWFF_ShrimpTank_Frame.description>
+  <RWFF_OctopusTank.label>문어 수조</RWFF_OctopusTank.label>
+  <RWFF_OctopusTank.description>문어를 기르는 수조입니다 잘자란 문어는 맛있어 보입니다.</RWFF_OctopusTank.description>
+  <RWFF_OctopusTank_Blueprint.label>문어 수조 (청사진)</RWFF_OctopusTank_Blueprint.label>
+  <RWFF_OctopusTank_Blueprint_Install.label>문어 수조 (청사진)</RWFF_OctopusTank_Blueprint_Install.label>
+  <RWFF_OctopusTank_Frame.label>문어 수조(건설 중)</RWFF_OctopusTank_Frame.label>
+  <RWFF_OctopusTank_Frame.description>문어를 기르는 수조입니다 잘자란 문어는 맛있어 보입니다.</RWFF_OctopusTank_Frame.description>
+</LanguageData>

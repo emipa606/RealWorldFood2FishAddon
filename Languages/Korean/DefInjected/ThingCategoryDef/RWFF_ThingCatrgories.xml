@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fish_main.label>물고기</Fish_main.label>
+  <UnCooked_Fishmeat.label>생선</UnCooked_Fishmeat.label>
+  <Shrimp.label>새우</Shrimp.label>
+  <Fish_corpse.label>죽은 물고기</Fish_corpse.label>
+  <Fish_Meat.label>손질된 생선</Fish_Meat.label>
+  <Fish_feed.label>생선사료</Fish_feed.label>
+</LanguageData>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--														-->
+  <RecipeDef>
+    <defName>Make_Gambas</defName>
+    <label>make Gambas al ajillo</label>
+    <description>Make Gambas al ajillo.</description>
+    <jobString>Making Gambas al ajillo.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>1000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>CleanedShrimp</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_Salt</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_OliveOil</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>CleanedShrimp</li>
+        <li>RWF_Salt</li>
+        <li>RWF_OliveOil</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_Gambas>1</RWFF_Gambas>
+    </products>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>MKGambas</researchPrerequisite>
+  </RecipeDef>
+  <!--		If you need use it
+	<RecipeDef>
+    <defName>Make_Gambasx10</defName>
+    <label>make 10 Gambas al ajillo</label>
+    <description>Make 10 Gambas al ajillo.</description>
+    <jobString>Making Gambas al ajillo.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>2500</workAmount>
+	<recipeUsers>
+		<li>ElectricStove</li>
+	    <li>FueledStove</li>
+	</recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>CleanedShrimp</li>
+          </thingDefs>
+        </filter>
+        <count>200</count>
+      </li>
+	  <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_Salt</li>
+          </thingDefs>
+        </filter>
+        <count>50</count>
+      </li>
+	  <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_OliveOil</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>CleanedShrimp</li>
+		<li>RWF_Salt</li>
+		<li>RWF_OliveOil</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_Gambas>10</RWFF_Gambas>
+    </products>
+		<skillRequirements>
+			<Cooking>7</Cooking>
+		</skillRequirements>
+    <workSkill>Cooking</workSkill>
+	<researchPrerequisite>MKGambas</researchPrerequisite>
+	</RecipeDef>
+	-->
+</Defs>

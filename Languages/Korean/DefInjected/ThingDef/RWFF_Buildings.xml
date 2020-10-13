@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FishingSpotR.label>낚시 장소</FishingSpotR.label>
+  <FishingSpotR.description>물고기를 낚을수 있는 장소 입니다.아무대서 잡는거보단 한군데에서 진득하게 기다리면 잡힙니다.</FishingSpotR.description>
+  <FishingSpotR_Blueprint.label>낚시 장소(청사진)</FishingSpotR_Blueprint.label>
+  <FishingSpotR_Frame.label>낚시 장소(건설 중)</FishingSpotR_Frame.label>
+  <FishingSpotR_Frame.description>물고기를 낚을수 있는 장소 입니다.아무대서 잡는거보단 한군데에서 진득하게 기다리면 잡힙니다.</FishingSpotR_Frame.description>
+  <saltern.label>염전</saltern.label>
+  <saltern.description>아주 작은 염전입니다 땅에서도 소금을 구할순 있지만 바닷물은 소금이 무한히 나옵니다!</saltern.description>
+  <saltern_Blueprint.label>염전(청사진)</saltern_Blueprint.label>
+  <saltern_Frame.label>염전(건설 중)</saltern_Frame.label>
+  <saltern_Frame.description>아주 작은 염전입니다 땅에서도 소금을 구할순 있지만 바닷물은 소금이 무한히 나옵니다!.</saltern_Frame.description>
+</LanguageData>

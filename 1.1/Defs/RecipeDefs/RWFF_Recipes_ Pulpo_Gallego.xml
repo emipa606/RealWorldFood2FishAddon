@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--														-->
+  <RecipeDef>
+    <defName>Make_PulpoGallego</defName>
+    <label>make Pulpo Gallego</label>
+    <description>Make Pulpo Gallego.</description>
+    <jobString>Making Pulpo Gallego.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>1000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>DeadOctopus</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_RawPeppers</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_OliveOil</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>DeadOctopus</li>
+        <li>RWF_OliveOil</li>
+        <li>RC2_RawPeppers</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_PulpoGallego>1</RWFF_PulpoGallego>
+    </products>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>MKPulpoGallego</researchPrerequisite>
+  </RecipeDef>
+</Defs>

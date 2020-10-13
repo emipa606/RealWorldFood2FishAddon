@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- ************************************************************* -->
+  <!--[Core] <WaterOceanDeep.label>deep ocean water</WaterOceanDeep.label>-->
+  <!--[Core] <WaterOceanDeep.tools.0.label>water</WaterOceanDeep.tools.0.label>-->
+  <!--[Core] <WaterDeep.label>deep water</WaterDeep.label>-->
+  <!--[Core] <WaterDeep.tools.0.label>water</WaterDeep.tools.0.label>-->
+  <!--[Core] <WaterMovingChestDeep.label>chest-deep moving water</WaterMovingChestDeep.label>-->
+  <!--[Core] <WaterMovingChestDeep.tools.0.label>water</WaterMovingChestDeep.tools.0.label>-->
+  <!--[Core] <WaterShallow.label>shallow water</WaterShallow.label>-->
+  <!--[Core] <WaterShallow.tools.0.label>water</WaterShallow.tools.0.label>-->
+  <!--[Core] <WaterOceanShallow.label>shallow ocean water</WaterOceanShallow.label>-->
+  <!--[Core] <WaterOceanShallow.tools.0.label>water</WaterOceanShallow.tools.0.label>-->
+  <!--[Core] <WaterMovingShallow.label>shallow moving water</WaterMovingShallow.label>-->
+  <!--[Core] <WaterMovingShallow.tools.0.label>water</WaterMovingShallow.tools.0.label>-->
+
+</LanguageData>

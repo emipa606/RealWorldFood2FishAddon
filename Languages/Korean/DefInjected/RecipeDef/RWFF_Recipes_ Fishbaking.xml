@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_GTFish.label>작은생선 굽기</Make_GTFish.label>
+  <Make_GTFish.description>작은생선 굽기.</Make_GTFish.description>
+  <Make_GTFish.jobString>작은생선 굽는 중.</Make_GTFish.jobString>
+  <Make_GTFishx10.label>작은생선 10마리 굽기</Make_GTFishx10.label>
+  <Make_GTFishx10.description>작은생선 10마리 굽기.</Make_GTFishx10.description>
+  <Make_GTFishx10.jobString>작은생선 10마리 굽는 중.</Make_GTFishx10.jobString>
+  <Make_GFish.label>생선 굽기</Make_GFish.label>
+  <Make_GFish.description>생선 굽기.</Make_GFish.description>
+  <Make_GFish.jobString>생선 굽는 중.</Make_GFish.jobString>
+  <Make_GFishx10.label>생선 10마리 굽기</Make_GFishx10.label>
+  <Make_GFishx10.description>생선 10마리 굽기.</Make_GFishx10.description>
+  <Make_GFishx10.jobString>생선 10마리 굽는 중.</Make_GFishx10.jobString>
+  <Make_SmokedFish.label>생선 훈제 하기</Make_SmokedFish.label>
+  <Make_SmokedFish.description>생선 훈제 하기.</Make_SmokedFish.description>
+  <Make_SmokedFish.jobString>생선 훈제 하는 중.</Make_SmokedFish.jobString>
+</LanguageData>

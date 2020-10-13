@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_Boiledshrimp.label>새우 삶기</Make_Boiledshrimp.label>
+  <Make_Boiledshrimp.description>새우 삶기.</Make_Boiledshrimp.description>
+  <Make_Boiledshrimp.jobString>새우 삶는 중.</Make_Boiledshrimp.jobString>
+  <Make_Boiledshrimpx10.label>새우 10마리 삶기</Make_Boiledshrimpx10.label>
+  <Make_Boiledshrimpx10.description>새우 10마리 삶기.</Make_Boiledshrimpx10.description>
+  <Make_Boiledshrimpx10.jobString>새우 삶는 중.</Make_Boiledshrimpx10.jobString>
+</LanguageData>

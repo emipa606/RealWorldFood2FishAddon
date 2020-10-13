@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GrilledThinFish.label>구운 작은생선</GrilledThinFish.label>
+  <GrilledThinFish.description>모닥불에 둘러 앉아 잡아온 생선에 소금을 뿌려서 구워 먹읍시다.</GrilledThinFish.description>
+  <GrilledFish.label>구운 생선</GrilledFish.label>
+  <GrilledFish.description>모닥불에 둘러 앉아 잡아온 생선에 소금을 뿌려서 구워 먹읍시다.</GrilledFish.description>
+  <RWFF_Gambas.label>감바스 알 아히요</RWFF_Gambas.label>
+  <RWFF_Gambas.description>감바스 알 아히요 또는 감바스는 번화계 갈리시아의 새우 요리이다.</RWFF_Gambas.description>
+  <RWFF_SalmonMeuniere.label>연어 뫼니에르</RWFF_SalmonMeuniere.label>
+  <RWFF_SalmonMeuniere.description>번화계에있는 고급 식당의 기본 생선 요리로 림월드에서 보기 힘들었으나 지금은 아닌거 같습니다.</RWFF_SalmonMeuniere.description>
+  <RWFF_FishChips.label>피쉬엔칩스</RWFF_FishChips.label>
+  <RWFF_FishChips.description>번화계 대영국의 요리로 대체적으로 엉망인 요리중 그나마 괜찮은 음식이라 널리 퍼졌습니다.</RWFF_FishChips.description>
+  <RWFF_FishMeuniere.label>피쉬뫼니에르</RWFF_FishMeuniere.label>
+  <RWFF_FishMeuniere.description>번화계에있는 고급 식당의 기본 생선 요리로 림월드에서 보기 힘들었으나 지금은 아닌거 같습니다.</RWFF_FishMeuniere.description>
+  <RWFF_FishSushi.label>스시</RWFF_FishSushi.label>
+  <RWFF_FishSushi.description>물고기를 얇게 썰어서 밥위에 얹어놓아 한입에 먹습니다.</RWFF_FishSushi.description>
+  <RWFF_SalmonSushi.label>연어스시</RWFF_SalmonSushi.label>
+  <RWFF_SalmonSushi.description>연어를 얇게 썰어서 밥위에 얹어놓아 한입에 먹습니다.</RWFF_SalmonSushi.description>
+  <RWFF_PulpoGallego.label>폴포 아 페아라</RWFF_PulpoGallego.label>
+  <RWFF_PulpoGallego.description>폴포 아 페이라는 번화계 갈리시아의 전통적인 문어 요리이다. 유명해져서 림월드에도 조리법이 알려졌다</RWFF_PulpoGallego.description>
+  <RWFF_Boiledshrimp.label>삶은 새우</RWFF_Boiledshrimp.label>
+  <RWFF_Boiledshrimp.description>끓는 물에 소금을 쳐서 삶은 새우입니다 짜고 맛있습니다.</RWFF_Boiledshrimp.description>
+</LanguageData>
