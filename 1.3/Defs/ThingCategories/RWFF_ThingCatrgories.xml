@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingCategoryDef>
+    <defName>Fish_main</defName>
+    <label>Fish</label>
+    <parent>CookComponents</parent>
+    <iconPath>Thing/Item/Fish corpse/nomalFish/Fish_raw_Nomal</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>UnCooked_Fishmeat</defName>
+    <label>Fishmeat</label>
+    <parent>Fish_main</parent>
+    <iconPath>UI/Icons/ThingCategories/FM</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Shrimp</defName>
+    <label>Shrimp</label>
+    <parent>Fish_main</parent>
+    <iconPath>Thing/Item/food_ingredients/Shrimp/Shrimp_meat_B</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Fish_corpse</defName>
+    <label>Fishcorpse</label>
+    <parent>Fish_main</parent>
+    <iconPath>Thing/Item/Fish corpse/nomalFish/Fish_raw_Nomal</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Fish_Meat</defName>
+    <label>Fish meat</label>
+    <parent>Fish_main</parent>
+    <iconPath>UI/Icons/ThingCategories/FM</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>Fish_feed</defName>
+    <label>fish feed</label>
+    <parent>Fish_main</parent>
+    <iconPath>Thing/Item/food_ingredients/Fish_feed/RWF_fish feed</iconPath>
+  </ThingCategoryDef>
+</Defs>

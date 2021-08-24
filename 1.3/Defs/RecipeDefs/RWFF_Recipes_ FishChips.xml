@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--														-->
+  <RecipeDef>
+    <defName>Make_FishChips</defName>
+    <label>make Fish and Chips</label>
+    <description>Make Fish and Chips.</description>
+    <jobString>Making Fish and Chips.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>1000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Fish_Meat</li>
+          </categories>
+        </filter>
+        <count>1.0</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawPotatoes</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_Flour</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_OliveOil</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Fish_Meat</li>
+      </categories>
+      <thingDefs>
+        <li>RawPotatoes</li>
+        <li>RC2_Flour</li>
+        <li>RWF_OliveOil</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_FishChips>1</RWFF_FishChips>
+    </products>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>MKFishChips</researchPrerequisite>
+  </RecipeDef>
+</Defs>

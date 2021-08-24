@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase_Fish">
+    <defName>SmokedFish</defName>
+    <label>Smoked Fish</label>
+    <description>Smoked Fish.</description>
+    <graphicData>
+      <texPath>Thing/Item/food_ingredients/nomal_fish/nomal_fish_meat_Smoked</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <MarketValue>1.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Fish_Meat</li>
+    </thingCategories>
+    <tickerType>Rare</tickerType>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>45</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_Fish">
+    <defName>TrimmedFish</defName>
+    <label>trimmed fish</label>
+    <description>trimmed fish.</description>
+    <graphicData>
+      <texPath>Thing/Item/food_ingredients/nomal_fish/nomal_fish_meat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <MarketValue>1.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Fish_Meat</li>
+    </thingCategories>
+    <tickerType>Rare</tickerType>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>1.5</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_Fish">
+    <defName>CleanedsalmonV</defName>
+    <label>Cleaned salmon(Vertical)</label>
+    <description>Cleaned salmon.(Vertical)</description>
+    <graphicData>
+      <texPath>Thing/Item/food_ingredients/salmon/Salmon_meat_A</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <MarketValue>1.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Fish_Meat</li>
+    </thingCategories>
+    <tickerType>Rare</tickerType>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>1.5</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_Fish">
+    <defName>CleanedsalmonH</defName>
+    <label>Cleaned salmon(horizontal)</label>
+    <description>Cleaned salmon.(horizontal)</description>
+    <graphicData>
+      <texPath>Thing/Item/food_ingredients/salmon/Salmon_meat_B</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <MarketValue>1.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Fish_Meat</li>
+    </thingCategories>
+    <tickerType>Rare</tickerType>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>1.5</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_Fish">
+    <defName>CleanedShrimp</defName>
+    <label>Cleaned Shrimp</label>
+    <description>Cleaned Shrimp.</description>
+    <graphicData>
+      <texPath>Thing/Item/food_ingredients/Shrimp/Shrimp_meat_A</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.7</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <MarketValue>1.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Fish_Meat</li>
+    </thingCategories>
+    <tickerType>Rare</tickerType>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>1.5</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase_SimpleMeal">
+    <defName>RWFF_Fishfeed</defName>
+    <label>fish feed</label>
+    <description>fish feed!</description>
+    <graphicData>
+      <texPath>Thing/Item/food_ingredients/Fish_feed/RWF_fish feed</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.9</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>25</MaxHitPoints>
+      <Flammability>0.0</Flammability>
+      <MarketValue>100.0</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>Fish_feed</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>
