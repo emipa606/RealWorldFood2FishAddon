@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Real World Food 2-Fish Addon (Continued)</name>
   <packageId>Mlie.RealWorldFood2FishAddon</packageId>
@@ -26,20 +26,24 @@
     <li>Crustypeanut.RC2.Core</li>
     <li>Mlie.RealWorldFood2</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Mikos mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1731635219
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/RealWorldFood2FishAddon][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 Real World Food Fish Addon 
 
@@ -54,7 +58,7 @@ This mode no longer requires 'RimCuisine 1.0' now use 'RimCuisine 2 Core' as the
 If you are an English user and want to change the description, there is a file inside that can be translated. If you think it is a good translation, please let me know so that everyone can use it.
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -65,4 +69,3 @@ If you are an English user and want to change the description, there is a file i
 [/list]
 </description>
 </ModMetaData>
-
