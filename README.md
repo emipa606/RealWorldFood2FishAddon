@@ -1,23 +1,14 @@
 # RealWorldFood2FishAddon
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Mikos mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1731635219
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/RealWorldFood2FishAddon]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Real World Food Fish Addon 
@@ -33,7 +24,7 @@ This mode no longer requires 'RimCuisine 1.0' now use 'RimCuisine 2 Core' as the
 If you are an English user and want to change the description, there is a file inside that can be translated. If you think it is a good translation, please let me know so that everyone can use it.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -43,6 +34,7 @@ If you are an English user and want to change the description, there is a file i
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
