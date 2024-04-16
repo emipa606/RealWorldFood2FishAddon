@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--														-->
+  <RecipeDef>
+    <defName>Catch_TFish</defName>
+    <label>catch Thin Fish</label>
+    <description>catch Thin Fish.</description>
+    <jobString>catching Thin Fish.</jobString>
+    <workAmount>250</workAmount>
+    <recipeUsers>
+      <li>FishingSpotR</li>
+    </recipeUsers>
+    <ingredients>
+    </ingredients>
+    <fixedIngredientFilter>
+    </fixedIngredientFilter>
+    <products>
+      <DeadThinFish>1</DeadThinFish>
+    </products>
+    <workSkill>Animals</workSkill>
+    <researchPrerequisite>StartFishing</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Catch_Fish</defName>
+    <label>catch Fish</label>
+    <description>catch Fish.</description>
+    <jobString>catching Fish.</jobString>
+    <workAmount>250</workAmount>
+    <recipeUsers>
+      <li>FishingSpotR</li>
+    </recipeUsers>
+    <ingredients>
+    </ingredients>
+    <fixedIngredientFilter>
+    </fixedIngredientFilter>
+    <products>
+      <DeadFish>1</DeadFish>
+    </products>
+    <workSkill>Animals</workSkill>
+    <researchPrerequisite>StartFishing</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Catch_Salmon</defName>
+    <label>catch Salmon</label>
+    <description>catch Salmon.</description>
+    <jobString>catching Salmon.</jobString>
+    <workAmount>250</workAmount>
+    <recipeUsers>
+      <li>FishingSpotR</li>
+    </recipeUsers>
+    <ingredients>
+    </ingredients>
+    <fixedIngredientFilter>
+    </fixedIngredientFilter>
+    <products>
+      <DeadSalmon>1</DeadSalmon>
+    </products>
+    <workSkill>Animals</workSkill>
+    <researchPrerequisite>StartFishing</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Catch_Shrimp</defName>
+    <label>catch Shrimp</label>
+    <description>catch Shrimp.</description>
+    <jobString>catching Shrimp.</jobString>
+    <workAmount>250</workAmount>
+    <recipeUsers>
+      <li>FishingSpotR</li>
+    </recipeUsers>
+    <ingredients>
+    </ingredients>
+    <fixedIngredientFilter>
+    </fixedIngredientFilter>
+    <products>
+      <DeadShrimp>5</DeadShrimp>
+    </products>
+    <workSkill>Animals</workSkill>
+    <researchPrerequisite>StartFishing</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>catch_Octopus</defName>
+    <label>catch Octopus</label>
+    <description>catch Octopus.</description>
+    <jobString>catching Octopus.</jobString>
+    <workAmount>250</workAmount>
+    <recipeUsers>
+      <li>FishingSpotR</li>
+    </recipeUsers>
+    <ingredients>
+    </ingredients>
+    <fixedIngredientFilter>
+    </fixedIngredientFilter>
+    <products>
+      <DeadOctopus>1</DeadOctopus>
+    </products>
+    <workSkill>Animals</workSkill>
+    <researchPrerequisite>StartFishing</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>Make_salt</defName>
+    <label>make Salt</label>
+    <description>make Salt.</description>
+    <jobString>Making Salt.</jobString>
+    <workAmount>250</workAmount>
+    <recipeUsers>
+      <li>saltern</li>
+    </recipeUsers>
+    <ingredients>
+    </ingredients>
+    <fixedIngredientFilter>
+    </fixedIngredientFilter>
+    <products>
+      <RWF_Salt>10</RWF_Salt>
+    </products>
+    <workSkill>Animals</workSkill>
+    <researchPrerequisite>StartFishing</researchPrerequisite>
+  </RecipeDef>
+</Defs>

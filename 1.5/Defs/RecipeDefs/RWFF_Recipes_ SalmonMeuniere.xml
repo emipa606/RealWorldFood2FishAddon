@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--														-->
+  <RecipeDef>
+    <defName>Make_SalmonMeuniere</defName>
+    <label>make Salmon Meuniere</label>
+    <description>Make Salmon Meuniere.</description>
+    <jobString>Making Salmon Meuniere.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>1000</workAmount>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>CleanedsalmonH</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_Salt</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_RawTomato</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_Flour</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RWF_OliveOil</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>CleanedsalmonH</li>
+        <li>RWF_Salt</li>
+        <li>RC2_RawTomato</li>
+        <li>RC2_Flour</li>
+        <li>RWF_OliveOil</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_Gambas>1</RWFF_Gambas>
+    </products>
+    <skillRequirements>
+      <Cooking>6</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>MKSalmonMeuniere</researchPrerequisite>
+  </RecipeDef>
+</Defs>

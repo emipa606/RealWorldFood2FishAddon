@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RWFF_FishTank</defName>
+    <label>Fish Tank(nomal Fish)</label>
+    <description>Salmon Fishg came out.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>Thing/Building/Production/FishTank/RWFF_FishTank</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2, 2)</drawSize>
+      <shadowData>
+        <volume>(1.8, 1.0, 0.2)</volume>
+        <offset>(0.0, 0.0, -0.4)</offset>
+      </shadowData>
+    </graphicData>
+    <thingCategories>
+      <li>BuildingsMisc</li>
+    </thingCategories>
+    <costList>
+      <Steel>200</Steel>
+      <ComponentIndustrial>6</ComponentIndustrial>
+      <DeadFish>5</DeadFish>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>33</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>40.0</fuelConsumptionRate>
+        <fuelCapacity>20.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>RWFF_Fishfeed</li>
+          </thingDefs>
+        </fuelFilter>
+      </li>
+      <li Class="CompProperties_Breakdownable" />
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Spawner">
+        <requiresPower>true</requiresPower>
+        <thingToSpawn>DeadFish</thingToSpawn>
+        <spawnCount>3</spawnCount>
+        <spawnIntervalRange>
+          <min>600000</min>
+          <max>600000</max>
+        </spawnIntervalRange>
+        <writeTimeLeftToSpawn>true</writeTimeLeftToSpawn>
+        <showMessageIfOwned>true</showMessageIfOwned>
+      </li>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+      </li>
+    </comps>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MarketValue>1500</MarketValue>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Beauty>-10</Beauty>
+      <Mass>35</Mass>
+      <WorkToBuild>8000</WorkToBuild>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <size>(2, 2)</size>
+    <fillPercent>1.0</fillPercent>
+    <designationCategory>RealFoodmaker</designationCategory>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <passability>Impassable</passability>
+    <rotatable>false</rotatable>
+    <canOverlapZones>false</canOverlapZones>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeability>Sellable</tradeability>
+    <researchPrerequisites>
+      <li>FTMake</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RWFF_SalmonTank</defName>
+    <label>Salmon Tank</label>
+    <description>Salmon came out.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>Thing/Building/Production/FishTank/RWFF_FishTank</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2, 2)</drawSize>
+      <shadowData>
+        <volume>(1.8, 1.0, 0.2)</volume>
+        <offset>(0.0, 0.0, -0.4)</offset>
+      </shadowData>
+    </graphicData>
+    <thingCategories>
+      <li>BuildingsMisc</li>
+    </thingCategories>
+    <costList>
+      <Steel>200</Steel>
+      <ComponentIndustrial>6</ComponentIndustrial>
+      <DeadSalmon>5</DeadSalmon>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>33</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>40.0</fuelConsumptionRate>
+        <fuelCapacity>20.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>RWFF_Fishfeed</li>
+          </thingDefs>
+        </fuelFilter>
+      </li>
+      <li Class="CompProperties_Breakdownable" />
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Spawner">
+        <requiresPower>true</requiresPower>
+        <thingToSpawn>DeadSalmon</thingToSpawn>
+        <spawnCount>2</spawnCount>
+        <spawnIntervalRange>
+          <min>600000</min>
+          <max>600000</max>
+        </spawnIntervalRange>
+        <writeTimeLeftToSpawn>true</writeTimeLeftToSpawn>
+        <showMessageIfOwned>true</showMessageIfOwned>
+      </li>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+      </li>
+    </comps>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MarketValue>1500</MarketValue>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Beauty>-10</Beauty>
+      <Mass>35</Mass>
+      <WorkToBuild>8000</WorkToBuild>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <size>(2, 2)</size>
+    <fillPercent>1.0</fillPercent>
+    <designationCategory>RealFoodmaker</designationCategory>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <passability>Impassable</passability>
+    <rotatable>false</rotatable>
+    <canOverlapZones>false</canOverlapZones>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeability>Sellable</tradeability>
+    <researchPrerequisites>
+      <li>FTMakeS</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RWFF_ShrimpTank</defName>
+    <label>Shrimp Tank</label>
+    <thingClass>Building</thingClass>
+    <description>Shrimp came out.</description>
+    <graphicData>
+      <texPath>Thing/Building/Production/FishTank/RWFF_FishTank</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2, 2)</drawSize>
+      <shadowData>
+        <volume>(1.8, 1.0, 0.2)</volume>
+        <offset>(0.0, 0.0, -0.4)</offset>
+      </shadowData>
+    </graphicData>
+    <thingCategories>
+      <li>BuildingsMisc</li>
+    </thingCategories>
+    <costList>
+      <Steel>200</Steel>
+      <ComponentIndustrial>6</ComponentIndustrial>
+      <DeadShrimp>10</DeadShrimp>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>33</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>40.0</fuelConsumptionRate>
+        <fuelCapacity>20.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>RWFF_Fishfeed</li>
+          </thingDefs>
+        </fuelFilter>
+      </li>
+      <li Class="CompProperties_Breakdownable" />
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Spawner">
+        <requiresPower>true</requiresPower>
+        <thingToSpawn>DeadShrimp</thingToSpawn>
+        <spawnCount>10</spawnCount>
+        <spawnIntervalRange>
+          <min>600000</min>
+          <max>600000</max>
+        </spawnIntervalRange>
+        <writeTimeLeftToSpawn>true</writeTimeLeftToSpawn>
+        <showMessageIfOwned>true</showMessageIfOwned>
+      </li>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+      </li>
+    </comps>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MarketValue>1500</MarketValue>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Beauty>-10</Beauty>
+      <Mass>35</Mass>
+      <WorkToBuild>8000</WorkToBuild>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <size>(2, 2)</size>
+    <fillPercent>1.0</fillPercent>
+    <designationCategory>RealFoodmaker</designationCategory>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <passability>Impassable</passability>
+    <rotatable>false</rotatable>
+    <canOverlapZones>false</canOverlapZones>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeability>Sellable</tradeability>
+    <researchPrerequisites>
+      <li>FTMakeSi</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RWFF_OctopusTank</defName>
+    <label>Octopus Tank</label>
+    <description>Octopus came out.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>Thing/Building/Production/FishTank/RWFF_FishTank</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2, 2)</drawSize>
+      <shadowData>
+        <volume>(1.8, 1.0, 0.2)</volume>
+        <offset>(0.0, 0.0, -0.4)</offset>
+      </shadowData>
+    </graphicData>
+    <thingCategories>
+      <li>BuildingsMisc</li>
+    </thingCategories>
+    <costList>
+      <Steel>200</Steel>
+      <ComponentIndustrial>6</ComponentIndustrial>
+      <DeadOctopus>5</DeadOctopus>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>33</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>40.0</fuelConsumptionRate>
+        <fuelCapacity>20.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>RWFF_Fishfeed</li>
+          </thingDefs>
+        </fuelFilter>
+      </li>
+      <li Class="CompProperties_Breakdownable" />
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Spawner">
+        <requiresPower>true</requiresPower>
+        <thingToSpawn>DeadOctopus</thingToSpawn>
+        <spawnCount>1</spawnCount>
+        <spawnIntervalRange>
+          <min>600000</min>
+          <max>600000</max>
+        </spawnIntervalRange>
+        <writeTimeLeftToSpawn>true</writeTimeLeftToSpawn>
+        <showMessageIfOwned>true</showMessageIfOwned>
+      </li>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+      </li>
+    </comps>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MarketValue>1500</MarketValue>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Beauty>-10</Beauty>
+      <Mass>35</Mass>
+      <WorkToBuild>8000</WorkToBuild>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <size>(2, 2)</size>
+    <fillPercent>1.0</fillPercent>
+    <designationCategory>RealFoodmaker</designationCategory>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <passability>Impassable</passability>
+    <rotatable>false</rotatable>
+    <canOverlapZones>false</canOverlapZones>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <tradeability>Sellable</tradeability>
+    <researchPrerequisites>
+      <li>FTMakeOc</li>
+    </researchPrerequisites>
+  </ThingDef>
+</Defs>

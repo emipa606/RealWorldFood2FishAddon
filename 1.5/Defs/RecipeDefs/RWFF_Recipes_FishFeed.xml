@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--														-->
+  <RecipeDef>
+    <defName>Make_FishFeed</defName>
+    <label>make Fish Feed</label>
+    <description>Make Fish Feed.</description>
+    <jobString>Making Fish Feed.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>450</workAmount>
+    <recipeUsers>
+      <li>ButcherSpot</li>
+      <li>TableButcher</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>15.0</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>PlantFoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <RWFF_Fishfeed>1</RWFF_Fishfeed>
+    </products>
+    <skillRequirements>
+      <Cooking>1</Cooking>
+    </skillRequirements>
+    <workSkill>Cooking</workSkill>
+    <researchPrerequisite>StartFishing</researchPrerequisite>
+  </RecipeDef>
+</Defs>
