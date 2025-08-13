@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Butcher Fish -->
+  <ButcherFish.label>Butcher Fish</ButcherFish.label>
+  <!-- EN: Butcher Fish. -->
+  <ButcherFish.description>Butcher Fish.</ButcherFish.description>
+  <!-- EN: Butchering. -->
+  <ButcherFish.jobString>Butchering.</ButcherFish.jobString>
+  <!-- EN: Butcher SalmonV -->
+  <ButcherSalmonA.label>Butcher SalmonV</ButcherSalmonA.label>
+  <!-- EN: Butcher Salmon, Vertical. -->
+  <ButcherSalmonA.description>Butcher Salmon, Vertical.</ButcherSalmonA.description>
+  <!-- EN: Butchering. -->
+  <ButcherSalmonA.jobString>Butchering.</ButcherSalmonA.jobString>
+  <!-- EN: Butcher SalmonH -->
+  <ButcherSalmonB.label>Butcher SalmonH</ButcherSalmonB.label>
+  <!-- EN: Butcher Salmon, horizontal. -->
+  <ButcherSalmonB.description>Butcher Salmon, horizontal.</ButcherSalmonB.description>
+  <!-- EN: Butchering. -->
+  <ButcherSalmonB.jobString>Butchering.</ButcherSalmonB.jobString>
+  <!-- EN: Butcher Shrimp -->
+  <ButcherShrimp.label>Butcher Shrimp</ButcherShrimp.label>
+  <!-- EN: Butcher Shrimp. -->
+  <ButcherShrimp.description>Butcher Shrimp.</ButcherShrimp.description>
+  <!-- EN: Butchering. -->
+  <ButcherShrimp.jobString>Butchering.</ButcherShrimp.jobString>
+  <!-- EN: Butcher 10 Shrimp -->
+  <ButcherShrimpx10.label>Butcher 10 Shrimp</ButcherShrimpx10.label>
+  <!-- EN: Butcher 10 Shrimp. -->
+  <ButcherShrimpx10.description>Butcher 10 Shrimp.</ButcherShrimpx10.description>
+  <!-- EN: Butchering. -->
+  <ButcherShrimpx10.jobString>Butchering.</ButcherShrimpx10.jobString>
+  <!-- EN: trim Fish -->
+  <trimFish.label>trim Fish</trimFish.label>
+  <!-- EN: trim Fish. -->
+  <trimFish.description>trim Fish.</trimFish.description>
+  <!-- EN: Fish trimming. -->
+  <trimFish.jobString>Fish trimming.</trimFish.jobString>
+</LanguageData>

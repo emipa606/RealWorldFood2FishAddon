@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Fish Meuniere -->
+  <Make_FishMeuniere.label>make Fish Meuniere</Make_FishMeuniere.label>
+  <!-- EN: Make Fish Meuniere. -->
+  <Make_FishMeuniere.description>Make Fish Meuniere.</Make_FishMeuniere.description>
+  <!-- EN: Making Fish Meuniere. -->
+  <Make_FishMeuniere.jobString>Making Fish Meuniere.</Make_FishMeuniere.jobString>
+</LanguageData>

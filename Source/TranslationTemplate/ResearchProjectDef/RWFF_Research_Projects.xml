@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Advanced fishing -->
+  <AdvancedFishing.label>Advanced fishing</AdvancedFishing.label>
+  <!-- EN: Advanced fishing. -->
+  <AdvancedFishing.description>Advanced fishing.</AdvancedFishing.description>
+  <!-- EN: Roasted fish -->
+  <Fishbaking.label>Roasted fish</Fishbaking.label>
+  <!-- EN: Let's Start Roasted fish. -->
+  <Fishbaking.description>Let's Start Roasted fish.</Fishbaking.description>
+  <!-- EN: Invented fish tank -->
+  <FTMake.label>Invented fish tank</FTMake.label>
+  <!-- EN: It is annoying, difficult and sometimes dangerous to go fishing every time. \nThis study safely fosters fish indoors! -->
+  <FTMake.description>It is annoying, difficult and sometimes dangerous to go fishing every time. 
+This study safely fosters fish indoors!</FTMake.description>
+  <!-- EN: octopus tank -->
+  <FTMakeOc.label>octopus tank</FTMakeOc.label>
+  <!-- EN: Let's raise a octopus in a fish tank! This is a little more difficult. -->
+  <FTMakeOc.description>Let's raise a octopus in a fish tank! This is a little more difficult.</FTMakeOc.description>
+  <!-- EN: Salmon tank -->
+  <FTMakeS.label>Salmon tank</FTMakeS.label>
+  <!-- EN: Let's raise a salmon in a fish tank! -->
+  <FTMakeS.description>Let's raise a salmon in a fish tank!</FTMakeS.description>
+  <!-- EN: shrimp tank -->
+  <FTMakeSi.label>shrimp tank</FTMakeSi.label>
+  <!-- EN: Let's raise a shrimp in a fish tank! -->
+  <FTMakeSi.description>Let's raise a shrimp in a fish tank!</FTMakeSi.description>
+  <!-- EN: Making Boiled shrimp -->
+  <MKBoiledshrimp.label>Making Boiled shrimp</MKBoiledshrimp.label>
+  <!-- EN: Now can make Boiled shrimp. -->
+  <MKBoiledshrimp.description>Now can make Boiled shrimp.</MKBoiledshrimp.description>
+  <!-- EN: Making Fish and Chips -->
+  <MKFishChips.label>Making Fish and Chips</MKFishChips.label>
+  <!-- EN: Now can make Fish and Chips. -->
+  <MKFishChips.description>Now can make Fish and Chips.</MKFishChips.description>
+  <!-- EN: Making Fish Meuniere -->
+  <MKFishMeuniere.label>Making Fish Meuniere</MKFishMeuniere.label>
+  <!-- EN: Now can make Fish Meuniere. -->
+  <MKFishMeuniere.description>Now can make Fish Meuniere.</MKFishMeuniere.description>
+  <!-- EN: Making Gambas al ajillo -->
+  <MKGambas.label>Making Gambas al ajillo</MKGambas.label>
+  <!-- EN: Now can make Gambas al ajillo. -->
+  <MKGambas.description>Now can make Gambas al ajillo.</MKGambas.description>
+  <!-- EN: Making Pulpo Gallego -->
+  <MKPulpoGallego.label>Making Pulpo Gallego</MKPulpoGallego.label>
+  <!-- EN: Now can make Pulpo Gallego. -->
+  <MKPulpoGallego.description>Now can make Pulpo Gallego.</MKPulpoGallego.description>
+  <!-- EN: Making Salmon Meuniere -->
+  <MKSalmonMeuniere.label>Making Salmon Meuniere</MKSalmonMeuniere.label>
+  <!-- EN: Now can make Salmon Meuniere. -->
+  <MKSalmonMeuniere.description>Now can make Salmon Meuniere.</MKSalmonMeuniere.description>
+  <!-- EN: Making Sushi -->
+  <MKSushi.label>Making Sushi</MKSushi.label>
+  <!-- EN: Now can make Sushi. -->
+  <MKSushi.description>Now can make Sushi.</MKSushi.description>
+  <!-- EN: Start fishing -->
+  <StartFishing.label>Start fishing</StartFishing.label>
+  <!-- EN: Let's Start fishing. -->
+  <StartFishing.description>Let's Start fishing.</StartFishing.description>
+</LanguageData>

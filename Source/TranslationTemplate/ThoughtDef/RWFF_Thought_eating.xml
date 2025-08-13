@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ate Boiled shrimp -->
+  <AteBoiledshrimp.stages.ate_Boiled_shrimp.label>ate Boiled shrimp</AteBoiledshrimp.stages.ate_Boiled_shrimp.label>
+  <!-- EN: how get this??? -->
+  <AteBoiledshrimp.stages.ate_Boiled_shrimp.description>how get this???</AteBoiledshrimp.stages.ate_Boiled_shrimp.description>
+  <!-- EN: ate Fish and Chips -->
+  <AteFishChips.stages.ate_Fish_and_Chips.label>ate Fish and Chips</AteFishChips.stages.ate_Fish_and_Chips.label>
+  <!-- EN: Chips -->
+  <AteFishChips.stages.ate_Fish_and_Chips.description>Chips</AteFishChips.stages.ate_Fish_and_Chips.description>
+  <!-- EN: ate Fish Meuniere -->
+  <AteFishMeuniere.stages.ate_Fish_Meuniere.label>ate Fish Meuniere</AteFishMeuniere.stages.ate_Fish_Meuniere.label>
+  <!-- EN: Meuniere -->
+  <AteFishMeuniere.stages.ate_Fish_Meuniere.description>Meuniere</AteFishMeuniere.stages.ate_Fish_Meuniere.description>
+  <!-- EN: ate Gambas al ajillo -->
+  <AteGambas.stages.ate_Gambas_al_ajillo.label>ate Gambas al ajillo</AteGambas.stages.ate_Gambas_al_ajillo.label>
+  <!-- EN: fish -->
+  <AteGambas.stages.ate_Gambas_al_ajillo.description>fish</AteGambas.stages.ate_Gambas_al_ajillo.description>
+  <!-- EN: ate grilled fish -->
+  <AteGTFish.stages.ate_grilled_fish.label>ate grilled fish</AteGTFish.stages.ate_grilled_fish.label>
+  <!-- EN: fish -->
+  <AteGTFish.stages.ate_grilled_fish.description>fish</AteGTFish.stages.ate_grilled_fish.description>
+  <!-- EN: ate Pulpo Gallego -->
+  <AtePulpoGallego.stages.ate_Pulpo_Gallego.label>ate Pulpo Gallego</AtePulpoGallego.stages.ate_Pulpo_Gallego.label>
+  <!-- EN: how get this??? -->
+  <AtePulpoGallego.stages.ate_Pulpo_Gallego.description>how get this???</AtePulpoGallego.stages.ate_Pulpo_Gallego.description>
+  <!-- EN: ate Salmon Meuniere -->
+  <AteSalmon.stages.ate_Salmon_Meuniere.label>ate Salmon Meuniere</AteSalmon.stages.ate_Salmon_Meuniere.label>
+  <!-- EN: Salmon -->
+  <AteSalmon.stages.ate_Salmon_Meuniere.description>Salmon</AteSalmon.stages.ate_Salmon_Meuniere.description>
+  <!-- EN: ate Sushi -->
+  <AteSushi.stages.ate_Sushi.label>ate Sushi</AteSushi.stages.ate_Sushi.label>
+  <!-- EN: Sushi -->
+  <AteSushi.stages.ate_Sushi.description>Sushi</AteSushi.stages.ate_Sushi.description>
+</LanguageData>

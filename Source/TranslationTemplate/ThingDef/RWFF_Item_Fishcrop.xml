@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Fish corpse -->
+  <DeadFish.label>Fish corpse</DeadFish.label>
+  <!-- EN: Fish. -->
+  <DeadFish.description>Fish.</DeadFish.description>
+  <!-- EN: octopus corpse -->
+  <DeadOctopus.label>octopus corpse</DeadOctopus.label>
+  <!-- EN: octopus. -->
+  <DeadOctopus.description>octopus.</DeadOctopus.description>
+  <!-- EN: salmon corpse -->
+  <DeadSalmon.label>salmon corpse</DeadSalmon.label>
+  <!-- EN: salmon. -->
+  <DeadSalmon.description>salmon.</DeadSalmon.description>
+  <!-- EN: Shrimp corpse -->
+  <DeadShrimp.label>Shrimp corpse</DeadShrimp.label>
+  <!-- EN: Shrimp. -->
+  <DeadShrimp.description>Shrimp.</DeadShrimp.description>
+  <!-- EN: Thin Fish corpse -->
+  <DeadThinFish.label>Thin Fish corpse</DeadThinFish.label>
+  <!-- EN: Thin Fish. -->
+  <DeadThinFish.description>Thin Fish.</DeadThinFish.description>
+</LanguageData>

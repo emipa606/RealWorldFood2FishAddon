@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Cleaned salmon(horizontal) -->
+  <CleanedsalmonH.label>Cleaned salmon(horizontal)</CleanedsalmonH.label>
+  <!-- EN: Cleaned salmon.(horizontal) -->
+  <CleanedsalmonH.description>Cleaned salmon.(horizontal)</CleanedsalmonH.description>
+  <!-- EN: Cleaned salmon(Vertical) -->
+  <CleanedsalmonV.label>Cleaned salmon(Vertical)</CleanedsalmonV.label>
+  <!-- EN: Cleaned salmon.(Vertical) -->
+  <CleanedsalmonV.description>Cleaned salmon.(Vertical)</CleanedsalmonV.description>
+  <!-- EN: Cleaned Shrimp -->
+  <CleanedShrimp.label>Cleaned Shrimp</CleanedShrimp.label>
+  <!-- EN: Cleaned Shrimp. -->
+  <CleanedShrimp.description>Cleaned Shrimp.</CleanedShrimp.description>
+  <!-- EN: fish feed -->
+  <RWFF_Fishfeed.label>fish feed</RWFF_Fishfeed.label>
+  <!-- EN: fish feed! -->
+  <RWFF_Fishfeed.description>fish feed!</RWFF_Fishfeed.description>
+  <!-- EN: Smoked Fish -->
+  <SmokedFish.label>Smoked Fish</SmokedFish.label>
+  <!-- EN: Smoked Fish. -->
+  <SmokedFish.description>Smoked Fish.</SmokedFish.description>
+  <!-- EN: trimmed fish -->
+  <TrimmedFish.label>trimmed fish</TrimmedFish.label>
+  <!-- EN: trimmed fish. -->
+  <TrimmedFish.description>trimmed fish.</TrimmedFish.description>
+</LanguageData>

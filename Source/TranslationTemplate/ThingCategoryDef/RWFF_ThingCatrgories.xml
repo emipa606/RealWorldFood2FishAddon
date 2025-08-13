@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Fishcorpse -->
+  <Fish_corpse.label>Fishcorpse</Fish_corpse.label>
+  <!-- EN: fish feed -->
+  <Fish_feed.label>fish feed</Fish_feed.label>
+  <!-- EN: Fish -->
+  <Fish_main.label>Fish</Fish_main.label>
+  <!-- EN: Fish meat -->
+  <Fish_Meat.label>Fish meat</Fish_Meat.label>
+  <!-- EN: Shrimp -->
+  <Shrimp.label>Shrimp</Shrimp.label>
+  <!-- EN: Fishmeat -->
+  <UnCooked_Fishmeat.label>Fishmeat</UnCooked_Fishmeat.label>
+</LanguageData>

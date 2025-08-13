@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: catch Fish -->
+  <Catch_Fish.label>catch Fish</Catch_Fish.label>
+  <!-- EN: catch Fish. -->
+  <Catch_Fish.description>catch Fish.</Catch_Fish.description>
+  <!-- EN: catching Fish. -->
+  <Catch_Fish.jobString>catching Fish.</Catch_Fish.jobString>
+  <!-- EN: catch Octopus -->
+  <catch_Octopus.label>catch Octopus</catch_Octopus.label>
+  <!-- EN: catch Octopus. -->
+  <catch_Octopus.description>catch Octopus.</catch_Octopus.description>
+  <!-- EN: catching Octopus. -->
+  <catch_Octopus.jobString>catching Octopus.</catch_Octopus.jobString>
+  <!-- EN: catch Salmon -->
+  <Catch_Salmon.label>catch Salmon</Catch_Salmon.label>
+  <!-- EN: catch Salmon. -->
+  <Catch_Salmon.description>catch Salmon.</Catch_Salmon.description>
+  <!-- EN: catching Salmon. -->
+  <Catch_Salmon.jobString>catching Salmon.</Catch_Salmon.jobString>
+  <!-- EN: catch Shrimp -->
+  <Catch_Shrimp.label>catch Shrimp</Catch_Shrimp.label>
+  <!-- EN: catch Shrimp. -->
+  <Catch_Shrimp.description>catch Shrimp.</Catch_Shrimp.description>
+  <!-- EN: catching Shrimp. -->
+  <Catch_Shrimp.jobString>catching Shrimp.</Catch_Shrimp.jobString>
+  <!-- EN: catch Thin Fish -->
+  <Catch_TFish.label>catch Thin Fish</Catch_TFish.label>
+  <!-- EN: catch Thin Fish. -->
+  <Catch_TFish.description>catch Thin Fish.</Catch_TFish.description>
+  <!-- EN: catching Thin Fish. -->
+  <Catch_TFish.jobString>catching Thin Fish.</Catch_TFish.jobString>
+  <!-- EN: make Salt -->
+  <Make_salt.label>make Salt</Make_salt.label>
+  <!-- EN: make Salt. -->
+  <Make_salt.description>make Salt.</Make_salt.description>
+  <!-- EN: Making Salt. -->
+  <Make_salt.jobString>Making Salt.</Make_salt.jobString>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Catch fish -->
+  <DoBillsCatchFish.label>Catch fish</DoBillsCatchFish.label>
+  <!-- EN: catching at -->
+  <DoBillsCatchFish.gerund>catching at</DoBillsCatchFish.gerund>
+  <!-- EN: catch -->
+  <DoBillsCatchFish.verb>catch</DoBillsCatchFish.verb>
+  <!-- EN: make salt -->
+  <DoBillsMKsalt.label>make salt</DoBillsMKsalt.label>
+  <!-- EN: Boiling at -->
+  <DoBillsMKsalt.gerund>Boiling at</DoBillsMKsalt.gerund>
+  <!-- EN: boil -->
+  <DoBillsMKsalt.verb>boil</DoBillsMKsalt.verb>
+</LanguageData>

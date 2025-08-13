@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Fish Sushi -->
+  <Make_FSushi.label>make Fish Sushi</Make_FSushi.label>
+  <!-- EN: Make Fish and Chips. -->
+  <Make_FSushi.description>Make Fish and Chips.</Make_FSushi.description>
+  <!-- EN: Making Fish and Chips. -->
+  <Make_FSushi.jobString>Making Fish and Chips.</Make_FSushi.jobString>
+  <!-- EN: make Slamon Sushi -->
+  <Make_SSushi.label>make Slamon Sushi</Make_SSushi.label>
+  <!-- EN: Make Fish and Chips. -->
+  <Make_SSushi.description>Make Fish and Chips.</Make_SSushi.description>
+  <!-- EN: Making Fish and Chips. -->
+  <Make_SSushi.jobString>Making Fish and Chips.</Make_SSushi.jobString>
+</LanguageData>

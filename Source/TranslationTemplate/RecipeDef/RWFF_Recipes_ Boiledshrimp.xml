@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Boiled shrimp -->
+  <Make_Boiledshrimp.label>make Boiled shrimp</Make_Boiledshrimp.label>
+  <!-- EN: Make Boiled shrimp. -->
+  <Make_Boiledshrimp.description>Make Boiled shrimp.</Make_Boiledshrimp.description>
+  <!-- EN: Making Boiled shrimp. -->
+  <Make_Boiledshrimp.jobString>Making Boiled shrimp.</Make_Boiledshrimp.jobString>
+  <!-- EN: make 10 Boiled shrimp -->
+  <Make_Boiledshrimpx10.label>make 10 Boiled shrimp</Make_Boiledshrimpx10.label>
+  <!-- EN: Make Boiled shrimp. -->
+  <Make_Boiledshrimpx10.description>Make Boiled shrimp.</Make_Boiledshrimpx10.description>
+  <!-- EN: Making Boiled shrimp. -->
+  <Make_Boiledshrimpx10.jobString>Making Boiled shrimp.</Make_Boiledshrimpx10.jobString>
+</LanguageData>

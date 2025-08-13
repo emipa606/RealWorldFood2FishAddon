@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Grilled fish -->
+  <GrilledFish.label>Grilled fish</GrilledFish.label>
+  <!-- EN: Grilled fish. -->
+  <GrilledFish.description>Grilled fish.</GrilledFish.description>
+  <!-- EN: Grilled thin fish -->
+  <GrilledThinFish.label>Grilled thin fish</GrilledThinFish.label>
+  <!-- EN: Grilled thin fish. -->
+  <GrilledThinFish.description>Grilled thin fish.</GrilledThinFish.description>
+  <!-- EN: Boiled shrimp -->
+  <RWFF_Boiledshrimp.label>Boiled shrimp</RWFF_Boiledshrimp.label>
+  <!-- EN: Boiled shrimp. -->
+  <RWFF_Boiledshrimp.description>Boiled shrimp.</RWFF_Boiledshrimp.description>
+  <!-- EN: Fish and Chips -->
+  <RWFF_FishChips.label>Fish and Chips</RWFF_FishChips.label>
+  <!-- EN: Fish and Chips. -->
+  <RWFF_FishChips.description>Fish and Chips.</RWFF_FishChips.description>
+  <!-- EN: Fish Meuniere -->
+  <RWFF_FishMeuniere.label>Fish Meuniere</RWFF_FishMeuniere.label>
+  <!-- EN: Fish Meuniere. -->
+  <RWFF_FishMeuniere.description>Fish Meuniere.</RWFF_FishMeuniere.description>
+  <!-- EN: Fish Sushi -->
+  <RWFF_FishSushi.label>Fish Sushi</RWFF_FishSushi.label>
+  <!-- EN: Fish Sushi. -->
+  <RWFF_FishSushi.description>Fish Sushi.</RWFF_FishSushi.description>
+  <!-- EN: Gambas al ajillo -->
+  <RWFF_Gambas.label>Gambas al ajillo</RWFF_Gambas.label>
+  <!-- EN: Gambas al ajillo. -->
+  <RWFF_Gambas.description>Gambas al ajillo.</RWFF_Gambas.description>
+  <!-- EN: Pulpo Gallego -->
+  <RWFF_PulpoGallego.label>Pulpo Gallego</RWFF_PulpoGallego.label>
+  <!-- EN: Pulpo Gallego. -->
+  <RWFF_PulpoGallego.description>Pulpo Gallego.</RWFF_PulpoGallego.description>
+  <!-- EN: Salmon Meuniere -->
+  <RWFF_SalmonMeuniere.label>Salmon Meuniere</RWFF_SalmonMeuniere.label>
+  <!-- EN: Salmon Meuniere. -->
+  <RWFF_SalmonMeuniere.description>Salmon Meuniere.</RWFF_SalmonMeuniere.description>
+  <!-- EN: Salmon Sushi -->
+  <RWFF_SalmonSushi.label>Salmon Sushi</RWFF_SalmonSushi.label>
+  <!-- EN: Salmon Sushi. -->
+  <RWFF_SalmonSushi.description>Salmon Sushi.</RWFF_SalmonSushi.description>
+</LanguageData>
