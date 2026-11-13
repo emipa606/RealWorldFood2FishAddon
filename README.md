@@ -1,13 +1,13 @@
 # [Real World Food 2-Fish Addon (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2256557380)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Mikos mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1731635219
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Real World Food Fish Addon 
 
@@ -22,13 +22,13 @@ This mode no longer requires 'RimCuisine 1.0' now use 'RimCuisine 2 Core' as the
 If you are an English user and want to change the description, there is a file inside that can be translated. If you think it is a good translation, please let me know so that everyone can use it.
 
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -36,4 +36,4 @@ If you are an English user and want to change the description, there is a file i
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/RealWorldFood2FishAddon?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2256557380) | tags:  food supply
+[![Image](https://img.shields.io/github/v/release/emipa606/RealWorldFood2FishAddon?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2256557380) | food supply
